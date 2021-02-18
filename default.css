@@ -1,2 +1,10 @@
-body {background-color: light pink;}
-h1 {color: grey;}
+body {background-color: black;}
+h1 {color: pink;}
+<head>
+  <style>
+    p{
+      color: pink;
+      font-size: 20px;
+    }
+ </style>
+</head>
