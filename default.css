@@ -1,9 +1,15 @@
-body {background-color: black;}
+body {background-color: black;
+
 <head>
   <style>
-h1 {color: pink;}
+
+h1 {color: pink;
+    font-size: 40px
+}
 h2 {color: pink;
-      font-size: 20px;
+   font-size: 20px;
     }
+
  </style>
 </head>
+}
